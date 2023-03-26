@@ -8,6 +8,6 @@ class User(AbstractUser):
     email = models.EmailField(max_length=127, unique=True)
     first_name = models.CharField(max_length=127)
     last_name = models.CharField(max_length=127)
-    phone = models.CharField(max_length=10)
+    phone = models.CharField(max_length=11,)
     registered_at = models.DateField(auto_now_add=True)
 
