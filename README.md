@@ -2,8 +2,9 @@
 
 <h1>Contact ME</h1>
 
-<h3><strong>Proposta:</strong></h3>
-<p>........</p>
+<h2><strong>Proposta:</strong></h2>
+<h3>Parte back-end do desafio fullstack proposto pela Kenzie Academy Brasil</h3>
+<p>A proposta do projeto é realizar uma aplicação onde um usuário pode se cadastrar e manter uma lista de contatos.</p>
 <hr noshade />
 
 <h2>Acesso a documentação: </h2>
